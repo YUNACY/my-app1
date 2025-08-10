@@ -4,6 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>こんにちは！Reactアプリを修正しました！</h1>
+      <p>これは私の最初の変更です。</p>
+      <p>何を作ろうかな。</p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
